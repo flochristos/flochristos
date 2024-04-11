@@ -4,14 +4,15 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+  Hi, I'm Jayflo, Computer Engineer & Software Developer from Nigeria
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  👨‍🎓 I'm a graduate of Computer Science from Ladoke Akintola University of Technology (LAUTECH)
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
+  💻 I love Writing code, Hardware and learning anything about them and building mobile apps no matter the challenges,
+  <br> Ilove solving problems 😊
   <br>
-  📚 I’m currently focusing on Data Science 
+  📚 I’m currently focusing on flutter mobile development and I've built apps for companies and some are on both playstore and appstore. 
   <br>
   📫 How to reach me 👇
 </p>
