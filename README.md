@@ -30,7 +30,7 @@
   <img title="GitHub" height="25" src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter">
  <img title="GitHub" height="25" src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart">
   <img title="C++" height="25" src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
-  <img title="Problem Solving" height="25" src="images/problemSolving.png">
+  <img title="Problem Solving" height="25" src="https://img.shields.io/badge/cSHARP-purple?style=for-the-badge&logo=cSHARP">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <img title="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img title="Numpy" height="25" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
