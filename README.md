@@ -3,7 +3,7 @@
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-<p align="right">
+<p align="left">
   Hi, I'm Jayflo, a Software Developer from Nigeria
   <br>
   <br>
