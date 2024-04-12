@@ -35,14 +35,14 @@
   <img title="Numpy" height="25" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img title="Pandas" height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img title="Matplotlib" height="25" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img title="Seaborn" height="25" src="images/seaborn.svg">
-  <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg">
-  <img title="HTML5" height="25" src="images/html5.svg">
-  <img title="CSS" height="25" src="images/css.svg">
-  <img title="Javascript" height="25" src="images/javascript.svg">
-  <img title="JSON" height="25" src="images/json.svg">
-  <img title="Git" height="25" src="images/git-original.svg">
-  <img title="GitHub" height="25" src="images/github.svg">
+  <img title="Seaborn" height="25" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img title="Scikit Learn" height="25" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img title="HTML5" height="25" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img title="CSS" height="25" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img title="Javascript" height="25" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
+  <img title="JSON" height="25" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+  <img title="Git" height="25" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img title="GitHub" height="25" src="https://badgen.net/pub/flutter-platform/xml">
   <img title="Visual Studio Code" height="25" src="images/vscode.png">
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
