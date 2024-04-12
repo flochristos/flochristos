@@ -25,6 +25,8 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=flochristos&theme=radical&hide_border=false&include_all_commits=false&count_private=true" align='right' width="50%">  
+<br>
 <!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
   <img title="C++" height="25" src="images/cpp.svg"></code>
   <img title="Problem Solving" height="25" src="images/problemSolving.png">
