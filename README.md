@@ -21,7 +21,8 @@
    <a href="https://twitter.com/jayflo_tech"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
 <!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
   <a href="https://www.youtube.com/@Jayflo_tech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a>
- <a href="https://www.youtube.com/@Jayflo_tech"><img src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok" height=23></a>
+ <a href="https://www.tiktok.com/@Jayflo_tech"><img src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok" height=23></a>
+ <a href="https://www.instagram.com/@Jayflo_tech"><img src="https://img.shields.io/badge/instagram-brown?stylefor-the-badge&logo=instagram" height=23></a>
  
  <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
