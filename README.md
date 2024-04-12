@@ -21,8 +21,7 @@
    <a href="https://twitter.com/jayflo_tech"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
 <!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
   <a href="https://www.youtube.com/@Jayflo_tech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_delelinus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayanwoyegideon) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@delelinus) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12256590) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/the_delelinus) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCHH0WvoIkfxLq1NwrABerQw) 
-
+ 
  <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
@@ -32,7 +31,7 @@
   <img title="C++" height="25" src="images/cpp.svg"></code>
   <img title="Problem Solving" height="25" src="images/problemSolving.png">
 <!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
-  <img title="Python" height="25" src="images/python-original.svg">
+  <img title="Python" height="25" src="[images/python-original.svg](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)">
   <img title="Numpy" height="25" src="images/numpy.svg">
   <img title="Pandas" height="25" src="images/pandas.svg">
   <img title="Matplotlib" height="25" src="images/matplotlib.svg">
