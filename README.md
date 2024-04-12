@@ -43,7 +43,13 @@
   <img title="Javascript" height="25" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
   <img title="JSON" height="25" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
   <img title="Git" height="25" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img title="Visual Studio Code" height="25" src="images/vscode.png">
+  <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=azure">
+   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=vscode">
+  <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/yarn-grey?style=for-the-badge&logo=yarn">
+   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/php-gray?style=for-the-badge&logo=php">
+  <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/react%20js-grey?style=for-the-badge&logo=react">
+  <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/yarn-grey?style=for-the-badge&logo=yarn">
+
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
 <hr>
