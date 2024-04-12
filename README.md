@@ -4,15 +4,15 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Jayflo, Computer Engineer & Software Developer from Nigeria
+  Hi, I'm Jayflo, a Software Developer from Nigeria
   <br>
   <br>
   👨‍🎓 I'm a graduate of Computer Science from Ladoke Akintola University of Technology (LAUTECH)
   <br>
-  💻 I love Writing code, Hardware and learning anything about them and building mobile apps no matter the challenges,
-  <br> Ilove solving problems 😊
+  💻 I love Writing code, learning and building mobile apps no matter the challenge,
+  <br> I love solving problems 😊
   <br>
-  📚 I’m currently focusing on flutter mobile development and I've built apps for companies and some are on both playstore and appstore. 
+  📚 I’m currently focusing on flutter mobile development. I've built apps for companies and some are on both playstore and appstore. 
   <br>
   📫 How to reach me 👇
 </p>
