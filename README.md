@@ -31,7 +31,7 @@
   <img title="C++" height="25" src="images/cpp.svg"></code>
   <img title="Problem Solving" height="25" src="images/problemSolving.png">
 <!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
-  <img title="Python" height="25" src="[images/python-original.svg](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)">
+  <img title="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img title="Numpy" height="25" src="images/numpy.svg">
   <img title="Pandas" height="25" src="images/pandas.svg">
   <img title="Matplotlib" height="25" src="images/matplotlib.svg">
