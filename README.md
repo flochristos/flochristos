@@ -27,8 +27,9 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=flochristos&theme=radical&hide_border=false&include_all_commits=false&count_private=true" align='right' width="50%">  
 <br>
-  <img title="GitHub" height="25" src="https://badgen.net/pub/dart-platform/google_sign_in">
-  <img title="C++" height="25" src="images/cpp.svg"></code>
+  <img title="GitHub" height="25" src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter">
+ <img title="GitHub" height="25" src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart">
+  <img title="C++" height="25" src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
   <img title="Problem Solving" height="25" src="images/problemSolving.png">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <img title="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
