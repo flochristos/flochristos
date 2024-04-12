@@ -31,7 +31,7 @@
 <br>
   <img title="Flutter" height="25" src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter">
  <img title="Dart" height="25" src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart">
-  <img title="NPM" height="25" src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
+  <img title="NPM" height="25" src="https://img.shields.io/badge/npm-2D7325?style=for-the-badge&logo=npm&logoColor=white">
   <img title="C#" height="25" src="https://img.shields.io/badge/cSHARP-purple?style=for-the-badge&logo=cSHARP">
   <img title="Bootstrap" height="25" src="https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap">
   <img title="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
