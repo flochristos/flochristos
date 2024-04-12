@@ -47,7 +47,7 @@
   <img title="Git" height="25" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=azure">
    <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=vscode">
-  <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/yarn-grey?style=for-the-badge&logo=yarn">
+  <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/firebase-grey?stylefor-the-badge&logo=firebase">
    <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/php-gray?style=for-the-badge&logo=php">
   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/react%20js-grey?style=for-the-badge&logo=react">
   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript">
