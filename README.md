@@ -49,7 +49,7 @@
   <img title="azure" height="25" src="https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=azure">
   <img title="vscode" height="25" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=vscode">
   <img title="Firebase" height="25" src="https://img.shields.io/badge/firebase-grey?stylefor-the-badge&logo=firebase">
-  <img title="PHP" height="25" src="https://img.shields.io/badge/php-gray?style=for-the-badge&logo=php">
+  <img title="PHP" height="25" src="https://img.shields.io/badge/php-733E95?style=for-the-badge&logo=php&logoColor=white">
   <img title="React" height="25" src="https://img.shields.io/badge/react%20js-grey?style=for-the-badge&logo=react">
   <img title="Typescripit" height="25" src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript">
   <img title="Git" height="25" src="https://img.shields.io/badge/git-brown?style=for-the-badge&logo=git">
