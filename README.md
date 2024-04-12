@@ -27,7 +27,7 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=flochristos&theme=radical&hide_border=false&include_all_commits=false&count_private=true" align='right' width="50%">  
 <br>
-  <code><img title="C" height="25" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png"></code>
+  <img title="GitHub" height="25" src="https://badgen.net/pub/dart-platform/google_sign_in">
   <img title="C++" height="25" src="images/cpp.svg"></code>
   <img title="Problem Solving" height="25" src="images/problemSolving.png">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
@@ -42,7 +42,6 @@
   <img title="Javascript" height="25" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
   <img title="JSON" height="25" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
   <img title="Git" height="25" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img title="GitHub" height="25" src="https://badgen.net/pub/flutter-platform/xml">
   <img title="Visual Studio Code" height="25" src="images/vscode.png">
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
