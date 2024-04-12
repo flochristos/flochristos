@@ -48,7 +48,8 @@
   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/yarn-grey?style=for-the-badge&logo=yarn">
    <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/php-gray?style=for-the-badge&logo=php">
   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/react%20js-grey?style=for-the-badge&logo=react">
-  <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/yarn-grey?style=for-the-badge&logo=yarn">
+  <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript">
+  <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/git-brown?style=for-the-badge&logo=git">
 
 <!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 </p>
