@@ -33,7 +33,7 @@
  <img title="GitHub" height="25" src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart">
   <img title="C++" height="25" src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
   <img title="Problem Solving" height="25" src="https://img.shields.io/badge/cSHARP-purple?style=for-the-badge&logo=cSHARP">
-  <code><img title="C#" height="25" src="https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap"></code>
+  <img title="C#" height="25" src="https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap">
   <img title="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img title="Numpy" height="25" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img title="Pandas" height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -46,9 +46,9 @@
   <img title="JSON" height="25" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
   <img title="Git" height="25" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=azure">
-   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=vscode">
+  <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=vscode">
   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/firebase-grey?stylefor-the-badge&logo=firebase">
-   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/php-gray?style=for-the-badge&logo=php">
+  <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/php-gray?style=for-the-badge&logo=php">
   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/react%20js-grey?style=for-the-badge&logo=react">
   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript">
   <img title="Visual Studio Code" height="25" src="https://img.shields.io/badge/git-brown?style=for-the-badge&logo=git">
