@@ -32,9 +32,9 @@
   <img title="Problem Solving" height="25" src="images/problemSolving.png">
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <img title="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img title="Numpy" height="25" src="images/numpy.svg">
-  <img title="Pandas" height="25" src="images/pandas.svg">
-  <img title="Matplotlib" height="25" src="images/matplotlib.svg">
+  <img title="Numpy" height="25" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img title="Pandas" height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img title="Matplotlib" height="25" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img title="Seaborn" height="25" src="images/seaborn.svg">
   <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg">
   <img title="HTML5" height="25" src="images/html5.svg">
