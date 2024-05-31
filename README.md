@@ -1,5 +1,5 @@
 <h1 align="center">
- Full Stack Web and Mobile Developer
+ Full Stack Mobile and Web Developer
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
