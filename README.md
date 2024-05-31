@@ -9,7 +9,7 @@
   <br>
   👨‍🎓 I'm a graduate of Computer Science from Ladoke Akintola University of Technology (LAUTECH)
   <br>
-  💻 I love Writing code, learning and building mobile, web and desktop apps no matter the challenge. I love solving problems 😊
+  💻 I love programming, learning and building mobile, web and desktop apps but frontend and backend. I love solving problems, it gives me pleasure 😊
   <br>
   📚 I’m currently focusing on flutter mobile, web and desktop development. I've built apps for companies and some are on both playstore and appstore. 
   <br>
