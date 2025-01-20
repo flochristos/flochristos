@@ -7,9 +7,9 @@
   Hi, I'm Jayflo, a Software Developer from Nigeria
   <br>
   <br>
-  👨‍🎓 I'm a graduate of Computer Science from Ladoke Akintola University of Technology (LAUTECH)
+  👨‍🎓 I'm a graduate of Computer Science
   <br>
-  💻 I love programming, learning and building mobile, web and desktop apps but frontend and backend. I love solving problems, it gives me pleasure 😊
+  💻 I love programming, learning and building mobile, web and desktop apps but frontend and backend. I'm enthusiatic about web3.0. I love solving problems, it gives me pleasure 😊
   <br>
   📚 I’m currently focusing on flutter mobile, web and desktop development. I've built apps for companies and some are on both playstore and appstore. 
   <br>
