@@ -15,7 +15,7 @@
   <br>
   📫 How to reach me 👇
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/flochristos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:flochristos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
+<p align="center"> <a href="https://wa.me/2348135220653?text=Github"><img src="https://scontent.whatsapp.net/v/t39.8562-34/420077459_703742575180618_3955965302853713788_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=o-aubLzKYUUQ7kNvgGPZnsf&_nc_oc=AdkxAzWSZGV_9tPrAa3okoUilV9B_OX87tPLB9nYDEAmEWcWDDjfhL5y_bA3Qxu2Yww&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=CIt1i4idMlYlG7yr5XXgEw&oh=01_Q5AaIdhvkNVm0FzZje6Ew42D3dwSqt8Q7PqIU5y7e4yw0Z8Z&oe=67DF88A8?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a><a href="https://www.linkedin.com/in/flochristos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:flochristos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
    <a href="https://twitter.com/jayflo_tech"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
 <!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
