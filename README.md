@@ -18,7 +18,7 @@
 <p align="center"> <a href="https://wa.me/2348135220653?text=Github"><img src="https://img.shields.io/badge/Whatsapp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a>
  <a href="https://www.linkedin.com/in/flochristos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white" height=23></a> <a href="mailto:flochristos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
-   <a href="https://twitter.com/jayflo_tech"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=x&logoColor=white" height=23></a>
+   <a href="https://twitter.com/jayflo_tech"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
 <!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
   <a href="https://www.youtube.com/@Jayflo_tech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a>
  <a href="https://www.tiktok.com/@Jayflo_tech"><img src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok" height=23></a>
