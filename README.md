@@ -1,88 +1,77 @@
-<h1 align="center">
- Full Stack Mobile and Web Developer
-</h1>
-   
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-<p align="left">
-  Hi, I'm Jayflo, a Software Developer from Nigeria
-  <br>
-  <br>
-  👨‍🎓 I'm a graduate of Computer Science
-  <br>
-  💻 I love programming, learning and building mobile, web and desktop apps but frontend and backend. I'm enthusiatic about web3.0. I love solving problems, it gives me pleasure 😊
-  <br>
-  📚 I’m currently focusing on flutter mobile, web and desktop development. I've built apps for companies and some are on both playstore and appstore. 
-  <br>
-  📫 How to reach me 👇
-</p>
-<p align="center"> <a href="https://wa.me/2348135220653?text=Github"><img src="https://img.shields.io/badge/Whatsapp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a>
- <a href="https://www.linkedin.com/in/flochristos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white" height=23></a> <a href="mailto:flochristos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
-  <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
-   <a href="https://twitter.com/jayflo_tech"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
-<!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
-  <a href="https://www.youtube.com/@Jayflo_tech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a>
- <a href="https://www.tiktok.com/@Jayflo_tech"><img src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok" height=23></a>
- <a href="https://www.instagram.com/Jayflo_tech"><img src="https://img.shields.io/badge/instagram-orange?stylefor-the-badge&logo=instagram" height=23></a>
- <a href="https://facebook.com/jayflotech/"><img src="https://img.shields.io/badge/facebook-blue?stylefor-the-badge&logo=facebook" height=23></a>
- 
- <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=flochristos&theme=radical&hide_border=false&include_all_commits=false&count_private=true" align='right' width="50%">  
-<br>
-  <img title="Flutter" height="25" src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter">
- <img title="Dart" height="25" src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart">
-  <img title="NPM" height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
- <img title="ExpressJs" height="25" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
- <img title="MongoDB" height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img title="C#" height="25" src="https://img.shields.io/badge/cSHARP-purple?style=for-the-badge&logo=cSHARP">
-  <img title="Bootstrap" height="25" src="https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap">
-  <img title="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img title="Java" height="25" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img title="Html5" height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img title="Css3" height="25" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img title="Postman" height="25" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img title="Swagger" height="25" src="https://img.shields.io/badge/swagger-18A82E?style=for-the-badge&logo=swagger&logoColor=white">
-  <img title="Photoshop Learn" height="25" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img title="Mysql" height="25" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img title="Sqlite" height="25" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img title="Yarn" height="25" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
-  <img title="Heroku" height="25" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-  <img title="AWS" height="25" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img title="azure" height="25" src="https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=azure">
-  <img title="vscode" height="25" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=vscode">
-  <img title="Firebase" height="25" src="https://img.shields.io/badge/firebase-grey?stylefor-the-badge&logo=firebase">
-  <img title="PHP" height="25" src="https://img.shields.io/badge/php-733E95?style=for-the-badge&logo=php&logoColor=white">
-  <img title="React" height="25" src="https://img.shields.io/badge/react%20js-grey?style=for-the-badge&logo=react">
-  <img title="Typescripit" height="25" src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript">
-  <img title="Git" height="25" src="https://img.shields.io/badge/git-brown?style=for-the-badge&logo=git">
+<div align="center">
 
-<!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
-</p>
-<hr>
+<img src="/images/Developer.gif" alt="developer" height="60px" />
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+# Hey, I'm Jayflo 👋
 
+**Senior Full-Stack & Mobile Engineer · Founder · Lagos, Nigeria 🇳🇬**
 
+I build fintech, EdTech and marketplace products end to end — from Flutter apps on the Play Store & App Store to the APIs, payments and AI that power them.
+
+<a href="https://wa.me/2348135220653?text=Hi%20Jayflo"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:flochristos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/flochristos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/jayflo_tech"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@jayflo_bb"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+<a href="https://www.youtube.com/@Jayflo_tech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/Jayflo_tech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://facebook.com/jayflotech/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+
+</div>
+
+---
+
+### ⚡ About
+
+- 🏢 Founder of **JayfloTech Ltd** — 8+ years shipping across fintech, EdTech & marketplaces
+- 📱 Flutter apps (mobile, web, desktop) live on **Play Store & App Store**
+- 🌐 React/TypeScript frontends, Node.js / PHP / Python backends, Supabase & serverless edge functions
+- 💳 Payments, bills & messaging: Paystack, VTPass, Resend, Termii
+- 🤖 AI-powered products — LLM integrations, voice (ElevenLabs), AI-assisted design & dev workflows
+- 🎓 B.Sc. Computer Science · still curious about Web3
+
+### 🚀 What I'm building
+
+| Project | What it is |
+|---|---|
+| **[Serlinger Ai](https://serlinger-ai.com)** | My AI product |
+| **Qyrex** | Digital banking app — Flutter, dark/neon glassmorphism UI · *CTO* |
+| **Brinmart** | Nigerian classifieds marketplace — free listings, boosts, verified sellers, wallet |
+| **Edumant** | School management system — admissions, grading, report cards, payments, role-based portals |
+
+### 🛠️ Stack
 
 <p align="center">
-<a href="https://github.com/flochristos/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flochristos&hide=c%23,powershell&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
- </a>
-</p>
-
-<hr>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/jayflo_tech" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
-</p>
-
-
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=flochristos/flochristos" alt="flochristos"/>       
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,nodejs,express,php,python,supabase,firebase,mysql,mongodb,sqlite&perline=13" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,java,cs,aws,azure,git,github,postman,vscode,ps&perline=11" />
 </p>
 
 <p align="center">
-  <a href="https://www.github.com/flochristos" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/flochristos?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
+  <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/VTPass-1A73E8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termii-F15A29?style=flat-square" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 </p>
 
+### 📊 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=flochristos&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flochristos&layout=compact&langs_count=8&hide=c%23,powershell&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flochristos&hide_border=true&theme=tokyonight" />
+</p>
+
+---
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/jayflo_tech"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" /></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=flochristos.flochristos" />
+<a href="https://github.com/flochristos"><img src="https://img.shields.io/github/followers/flochristos?style=flat-square&logo=github&color=282b2f" /></a>
+
+</div>
